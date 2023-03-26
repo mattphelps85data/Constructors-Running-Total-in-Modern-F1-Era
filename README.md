@@ -1,45 +1,35 @@
-# Constructors-Running-Total-in-Modern-F1-Era
-An SQL-Excel-Flourish project to visualize F1 Constructors running total using a bar race vizualization
 
-Step 1:
-Gather F1 data sets from Kaggle:
-  - races.csv
-  - results.csv
-  - constructors.csv
+# Constructors Points in the Modern F1 Era
 
-Step 2:
-Create tables in SQL, import data from .csv files:
-  - races
-  - results
-  - constructors
+Personal project to demonstrate a running total bar race vizualization using F1 Constructors points from the beginning of the Modern F1 Era(1950).
 
-Step 3:
-Join races, results, and constructors tables:
-  -Insert SQL code
-  
-Step 4: 
-Save joined tables as .csv file
 
-Step 5: 
-Excel transformation:
-  - Create new empty columns
-  - Insert running total formula
+## Tech
 
-Step 6:
-Excel-Flourish preparation:
-  - Transpose table with dates as columns and constructors as rows
-  - Insert new column for .png/.jpg image urls
-  
-Step 7:
-Gather hex code color data for each team:
-  - concatenate in excel
-  - transfer to notepad for easier Flourish input
-  
-Step 8:
-Upload Constructor, Image, and Hex Code data to Flourish
-  - Edit size of bars
-  - Edit speed of bar race
+**Database:** PostgreSQL
 
-Step 9:
-Publish Constructors Bar Race
-  
+**Database Tool:** pgAdmin4, Excel
+
+**Visualization Tool:** Flourish
+
+
+## Lessons Learned / Challenges
+
+**Lessons Learned:**
+I learned how to transform data to take advantage of Flourish Bar Race data vizualization. 
+
+**Challenges:**
+To get the data from its raw form to its final cleaned form to fit Flourish data requirements took more data manipulation/transformation than anticapted. Adding color hex codes and image urls required quite a bit of manual effort.
+
+## Screenshots
+
+[![constructor-screenshot.png](https://i.postimg.cc/kM1kbFmm/constructor-screenshot.png)](https://postimg.cc/HjMZGMnZ)
+
+
+## Demo
+
+https://public.flourish.studio/visualisation/13190928/
+
+
+[![Matthew-1.png](https://i.postimg.cc/W4rdD6fp/Matthew-1.png)](https://postimg.cc/t1qqwPj8)
+
