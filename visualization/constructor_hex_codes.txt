@@ -1,0 +1,105 @@
+Alfa Romeo:#900000
+AlphaTauri:#2B4562
+Alpine F1 Team:#0090FF
+Arrows:#FFA533
+Aston Martin:#002420
+ATS:#E6FF33
+BAR:#FFFFFF
+Benetton:#80D87D
+BMW Sauber:#FFFFFF
+Brabham:#144883
+Brabham-Alfa Romeo:#BD0606
+Brabham-BRM:#000C35
+Brabham-Climax:#04ADB8
+Brabham-Ford:#FFFFFF
+Brabham-Repco:#039331
+Brawn:#BFF774
+BRM:#1C270D
+BRP:#D1EFA7
+Connaught:#4C7414
+Cooper:#032C92
+Cooper-BRM:#1C2437
+Cooper-Castellotti:#0D8D26
+Cooper-Climax:#032C92
+Cooper-Maserati:#CC2020
+Dallara:#CC2020
+Deidt:#FFFFFF
+Eagle-Climax:#5F4ABD
+Eagle-Weslake:#0F3290
+Embassy Hill:#FFFFFF
+Ensign:#FFFFFF
+Epperly:#FFFFFF
+Ferrari:#ff2800
+Fittipaldi:#E0F954
+Footwork:#FFFFFF
+Force India:#F596C8
+Frazer Nash:#135215
+Gordini:#63ABF3
+Haas F1 Team:#FFFFFF
+Hesketh:#FFFFFF
+Honda:#FFFFFF
+HWM:#106014
+Iso Marlboro:#C01400
+Jaguar:#009304
+Jordan:#E7FE00
+Kurtis Kraft:#E1F32F
+Kuzma:#FFFFFF
+Lancia:#DB1919
+Larrousse:#1F9C10
+Lesovsky:#0C95B9
+Leyton House:#1AE2EB
+Ligier:#1743E5
+Lola:#F8C640
+Lotus F1:#FFB800
+Lotus-BRM:#0A7F00
+Lotus-Climax:#0A7F00
+Lotus-Ford:#C2160B
+Manor Marussia:#C6481C
+March:#C6481C
+March-Ford:#C6481C
+Marussia:#6E0000
+Maserati:#000578
+Matra:#2C78ED
+Matra-Ford:#2C78ED
+McLaren:#FF8000
+McLaren-BRM:#C6481C
+McLaren-Ford:#D02513
+McLaren-Serenissima:#FFFFFF
+Mercedes:#b4c0c1
+Minardi:#D1FA2C
+Onyx:#FD78A4
+Osella:#0A93FF
+Parnelli:#FFFFFF
+Penske:#FFFFFF
+Phillips:#001095
+Porsche:#000000
+Prost:#0306A1
+Racing Point:#F596C8
+Red Bull:#23326A
+Renault:#FFF500
+Rial:#3337CB
+Row Labels:hexcodes
+Sauber:#006EFF
+Schroeder:#33A2CB
+Shadow:#000000
+Shadow-Ford:#000000
+Sherman:#FFFFFF
+Simca:#2959FB
+Spyker:#FB8829
+Stewart:#FFFFFF
+Super Aguri:#CA0707
+Surtees:#06208A
+Talbot-Lago:#4467FB
+Team Lotus:#DDB800
+Tecno:#FFFFFF
+Theodore:#FFFFFF
+Toleman:#FFFFFF
+Toro Rosso:#0003AA
+Toyota:#C40000
+Trevis:#05359B
+Tyrrell:#0644C9
+Vanwall:#005912
+Watson:#FFFFFF
+Williams:#005AFF
+Wolf:#000000
+Zakspeed:#C60300
