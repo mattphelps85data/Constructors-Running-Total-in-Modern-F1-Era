@@ -33,7 +33,7 @@ https://public.flourish.studio/visualisation/13190928/
 
 ## Authors
 
-- [@mattphelps85data](https://github.com/mattphelps85data)
+- [Matthew Phelps](https://github.com/mattphelps85data)
 
 
 [![mplogo.png](https://i.postimg.cc/SxbSDJ6p/mplogo.png)](https://postimg.cc/LnvFs4Qy)
